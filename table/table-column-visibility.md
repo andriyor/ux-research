@@ -3,7 +3,7 @@
 
 title is aleays visible
 
-![](Pasted%20image%2020260318225237.png)
+![](../Attachments/Pasted%20image%2020260318225237.png)
 
 
 ### notion:
@@ -12,7 +12,7 @@ title is aleays visible
 
 name is always visible
 
-![](Pasted%20image%2020260318225639.png)
+![](../Attachments/Pasted%20image%2020260318225639.png)
 
 ### clickup
 
@@ -20,7 +20,7 @@ name is always visible
 
 task name is always visible
 
-![](Pasted%20image%2020260318225721.png)
+![](../Attachments/Pasted%20image%2020260318225721.png)
 
 ### monday
 
@@ -29,7 +29,7 @@ task name is always visible
 task is always visible  
 task isn't included in the filter options
 
-![](Pasted%20image%2020260318225831.png)
+![](../Attachments/Pasted%20image%2020260318225831.png)
 
 
 ### airtable
@@ -40,7 +40,7 @@ name is always visible
 name isn’t included in the filter options  
 show all, hide all as buttons
 
-![](Pasted%20image%2020260318225842.png)
+![](../Attachments/Pasted%20image%2020260318225842.png)
 
 ## asana
 
@@ -50,7 +50,7 @@ name is always visible
 name isn’t included in the filter options
 
 
-![](Pasted%20image%2020260318225853.png)
+![](../Attachments/Pasted%20image%2020260318225853.png)
 
 
 ## taskade
@@ -60,7 +60,7 @@ name isn’t included in the filter options
 name is always visible  
 name isn’t included in the filter options
 
-![](Pasted%20image%2020260318225908.png)
+![](../Attachments/Pasted%20image%2020260318225908.png)
 
 
 ## zenkit
@@ -69,5 +69,5 @@ name isn’t included in the filter options
 
 title can be hidden
 
-![](Pasted%20image%2020260318225920.png)
+![](../Attachments/Pasted%20image%2020260318225920.png)
 
