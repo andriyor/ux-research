@@ -17,7 +17,7 @@ slightly highlighted droppable zone
 
 ## google  spreadsheet
 
-hand icon after clicking on column
+pointer cursor after clicking on column
 
 ![](../Attachments/Untitled%20spreadsheet%20-%20Google%20Sheets%20CleanShot%202026-04-22%20at%2011%20.49.59.png)
 
@@ -28,7 +28,7 @@ slightly highlighted droppable zone
 
 ## GitHub
 
-hand icon on hover
+pointer cursor on hover
 
 ![](../Attachments/View%201%20·%20@andriyor's%20untitled%20project%20CleanShot%202026-04-22%20at%2011%20.53.24.png)
 
@@ -40,3 +40,25 @@ column menu with action to move column
 highlighted droppable zone, there is no visible draggable item
 
 ![](../Attachments/View%201%20·%20@andriyor's%20untitled%20project%20-2026-04-27%20at%2012%20.29.34.png)
+
+
+## notion
+
+pointer cursor on hover
+
+![](../Attachments/New%20database%20Notion%20-2026-04-27%20at%201%20.08.57.png)
+
+reorder before drop
+
+![](../Attachments/New%20database%20Notion%20-2026-04-27%20at%201%20.09.41.png)
+
+
+## clickup
+
+pointer cursor on hover
+
+![](../Attachments/List%20example%20andriyor%20(List)%20-2026-04-27%20at%201%20.12.07.png)
+reorder before drop with animation
+
+
+![](../Attachments/List%20example%20andriyor%20(List)%20-2026-04-27%20at%201%20.13.59.png)
