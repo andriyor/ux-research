@@ -62,6 +62,8 @@ https://www.shutterstock.com/search/cats?kw=shutterstock&page=2
 
 https://rozetka.com.ua/ua/consoles/c80020/page=6/
 
+https://www.npmjs.com/browse/depended/axios?offset=144
+
 Skeleton:
 https://github.com/pnpm/pnpm/issues?page=8
 
